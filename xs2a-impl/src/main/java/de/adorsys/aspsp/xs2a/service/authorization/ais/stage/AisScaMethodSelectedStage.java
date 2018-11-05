@@ -18,7 +18,6 @@ package de.adorsys.aspsp.xs2a.service.authorization.ais.stage;
 
 import de.adorsys.aspsp.xs2a.domain.MessageErrorCode;
 import de.adorsys.aspsp.xs2a.domain.consent.AccountConsent;
-import de.adorsys.aspsp.xs2a.domain.OtpFormat;
 import de.adorsys.aspsp.xs2a.domain.Xs2aChallengeData;
 import de.adorsys.aspsp.xs2a.domain.consent.UpdateConsentPsuDataReq;
 import de.adorsys.aspsp.xs2a.domain.consent.UpdateConsentPsuDataResponse;
