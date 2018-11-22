@@ -23,9 +23,9 @@ import lombok.NoArgsConstructor;
 
 import java.util.Currency;
 
-@Data
 @AllArgsConstructor
 @NoArgsConstructor
+@Data
 /**
  *
  * @deprecated since 1.11. Will be removed in 1.12. Use de.adorsys.psd2.xs2a.core.profile.AccountReference instead
